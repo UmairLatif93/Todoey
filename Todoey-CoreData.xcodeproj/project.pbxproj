@@ -69,6 +69,7 @@
 		A67736912326803300AAB588 /* DataModel */ = {
 			isa = PBXGroup;
 			children = (
+				A6D4E044232CF01800ED9973 /* DataModel.xcdatamodeld */,
 			);
 			path = DataModel;
 			sourceTree = "<group>";
@@ -77,7 +78,6 @@
 			isa = PBXGroup;
 			children = (
 				A677367F23265E3F00AAB588 /* TodoListViewController.swift */,
-				A6D4E044232CF01800ED9973 /* DataModel.xcdatamodeld */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -380,8 +380,7 @@
 				A6D4E045232CF01800ED9973 /* DataModel.xcdatamodel */,
 			);
 			currentVersion = A6D4E045232CF01800ED9973 /* DataModel.xcdatamodel */;
-			name = DataModel.xcdatamodeld;
-			path = ../DataModel/DataModel.xcdatamodeld;
+			path = DataModel.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
